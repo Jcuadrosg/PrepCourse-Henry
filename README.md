@@ -1,2 +1,1 @@
-# PrepCourse-Henry
-Este es un repositorio del modulo 2 de henry
+Prueb de comer hacer un repo y guardarlo en mi desktop.
